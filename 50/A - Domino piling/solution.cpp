@@ -1,12 +1,13 @@
-#include<iostream>
+#include <iostream>
+#include <vector>
+#include <climits>
 using namespace std;
  
-int main(){
-    int m,n;
-    cin>>m>>n;
-    int totalarea=m*n;
-    
-    int res=totalarea/2;
-    cout<<res<<endl;
+int main() {
+    int n,m;
+    cin>>n>>m;
+    cout<<(n*m)/2;
+ 
+ 
     return 0;
 }
