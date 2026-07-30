@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 11 |
+| 18 | 11 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [games](#games) (1)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (8)
-- [math](#math) (2)
+- [math](#math) (3)
 - [sortings](#sortings) (2)
 - [strings](#strings) (7)
 
@@ -94,6 +94,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 
 ### sortings
 
