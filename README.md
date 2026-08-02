@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 11 |
+| 24 | 11 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (4)
 - [sortings](#sortings) (2)
 - [strings](#strings) (8)
@@ -83,6 +83,7 @@
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 66B | [Petya and Countryside](https://codeforces.com/contest/66/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/66/B%20-%20Petya%20and%20Countryside/solution.cpp) |
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
