@@ -4,9 +4,9 @@
 using namespace std;
  
 int main() {
-    long long  n;
-    cin>>n;
-    string s=to_string(n);
+    string s;
+    cin>>s;
+    // string s=to_string(n);
     // int n1 = s.length();
     // vector<string> ch(n1);
     // for(int i=0;i<n1;i++){
