@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 11 |
+| 27 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
@@ -38,6 +38,7 @@
 |---|---------|------------|----------|
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
+| 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
 ### brute force
 
