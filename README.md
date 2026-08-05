@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 11 |
+| 28 | 11 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (3)
-- [brute force](#brute-force) (5)
+- [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [games](#games) (1)
@@ -46,6 +46,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 66B | [Petya and Countryside](https://codeforces.com/contest/66/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/66/B%20-%20Petya%20and%20Countryside/solution.cpp) |
+| 80A | [Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/80/A%20-%20Panoramix's%20Prediction/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/sonukumar8933/Codeforces-DSA/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
